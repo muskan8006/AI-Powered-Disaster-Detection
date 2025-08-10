@@ -1,0 +1,8 @@
+# 1) pip upgrade
+!pip install --upgrade pip
+
+# 2) install required libs quietly
+!pip install -q transformers datasets sentencepiece evaluate
+!pip install -q scikit-learn matplotlib seaborn tensorflow-datasets
+# Optional: agar TF pin karna ho (Colab default TF sahi hota hai, is line ko skip kar sakti ho)
+#!pip install -q tensorflow==2.12.0
