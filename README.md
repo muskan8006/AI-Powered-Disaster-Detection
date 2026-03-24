@@ -15,4 +15,4 @@ This project can be used to build disaster warning systems or for research purpo
 - Machine Learning / Deep Learning
 - Sensor Data Processing
 ## creted by
--muskan
+muskan
