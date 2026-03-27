@@ -12,7 +12,7 @@ This project can be used to build disaster warning systems or for research purpo
 
 ## Technology Stack
 - Python
-- Machine Learning / Deep Learning
+- Machine Learning 
 - Sensor Data Processing
 ## creted by
 muskan
