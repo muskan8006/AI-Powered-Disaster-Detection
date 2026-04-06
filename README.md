@@ -7,9 +7,6 @@ This project uses Artificial Intelligence (AI) techniques to detect natural disa
 - Accurate and fast alert system
 - Supports multiple types of natural disasters
 
-## Usage
-This project can be used to build disaster warning systems or for research purposes.
-
 ## Technology Stack
 - Python
 - Machine Learning 
