@@ -1,2 +1,2 @@
 ## ai powered disaster detection 
-predict weather
+predict weather from the data provided
