@@ -1,4 +1,4 @@
-# AI Disaster Detection
+# AI  Powered Disaster Detection
 
 ## Overview
 AI Disaster Detection is an AI-powered system designed to identify and classify natural disasters from images and data inputs. The application helps in early disaster recognition, enabling faster response and better decision-making during emergency situations.
@@ -49,18 +49,4 @@ python app.py
 - NGOs and Relief Operations
 - Smart City Monitoring Systems
 
-## Future Enhancements
-- Integration with satellite imagery
-- Real-time CCTV and drone monitoring
-- SMS and email alert systems
-- Mobile application support
-- Multi-language support
 
-## Contributing
-Contributions are welcome. Feel free to fork the repository, create a new branch, and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-Muskan
